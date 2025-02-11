@@ -1,5 +1,6 @@
 # Hello, I'm Juan zuluaga
 **Aspiring Cybersecurity Analyst**
+
 <a href="https://linkedin.com/in/juan-zuluagak/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello! My name is Juan Daniel Zuluaga Kerguelen, (I know it is way too long and hard to pronounce xD), and my journey into cybersecurity has been shaped by a variety of experiences that have taught me the importance of problem-solving, adaptability, and attention to detail.
